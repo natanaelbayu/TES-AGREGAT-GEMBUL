@@ -1,4 +1,0 @@
-pulp
-pandas
-numpy
-scipy
